@@ -68,7 +68,7 @@ This exercise will guide you through the process of initializing a git repositor
 
 Our plan is to refactor the existing Terraform configuration into a module, define input variables for resource names and other parameters, define outputs for important information like the Resource Group ID and Storage Account connection string, and use the module in the main Terraform configuration with variable values.
 
-We are also plainning to create different environments for our infrastructure, like `dev` and `stg`, and use the module in both environments with different configurations.
+We are also planning to create different environments for our infrastructure, like `dev` and `stg`, and use the module in both environments with different configurations.
 
 Our final directory structure might look something like this:
 
