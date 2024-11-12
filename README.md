@@ -105,7 +105,7 @@ Our final directory structure might look something like this:
 4. Use the module in the main Terraform configuration with variable values.
 5. Create a new deployment of your module that does not collide with the existing resources holding your terraform state.
 
-### Exercise 5: Unique Resource Naming and Importing Existing Resources
+### Exercise 4: Unique Resource Naming and Importing Existing Resources
 **Objective:** Use the Terraform Random provider to avoid naming collisions and learn how to import existing Azure resources into Terraform management.
 
 **Tasks:**
